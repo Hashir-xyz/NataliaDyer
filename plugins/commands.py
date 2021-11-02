@@ -19,7 +19,7 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('Update Channel🧲', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('Update Channel🧲', url=f'http://t.me/TGmovie9')
             ],[
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),                      
             ],[
@@ -61,7 +61,7 @@ async def start(client, message):
         return
     if len(message.command) ==2 and message.command[1] in ["subscribe", "error", "okay"]:
         buttons = [[
-            InlineKeyboardButton('Update Channel🧲', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('Update Channel🧲', url=f'http://t.me/TGmovie9')
             ],[
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),           
             ],[
