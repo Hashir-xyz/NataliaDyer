@@ -22,7 +22,7 @@ async def start(client, message):
             InlineKeyboardButton('Update Channel🧲', url=f'http://t.me/TGmovie9')
             ],[
             InlineKeyboardButton('📺web series', url='https://t.me/TGSeriesWorld')
-            InlineKeyboardButton('🎥suggestion', url='https://t.me/mallumoviesuggest')
+            InlineKeyboardButton('🎥suggestion', url='https://t.me/mallumoviesuggest'), 
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''), 
             ],[
             InlineKeyboardButton('🛠️ Help', callback_data='help'),
