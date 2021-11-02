@@ -3,13 +3,19 @@ class script(object):
 𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href='https://t.me/EvaMariaBot'>𝙴𝚅𝙰 𝙼𝙰𝚁𝙸𝙰</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 😍"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: 𝙴𝚟𝚊 𝙼𝚊𝚛𝚒𝚊
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: 𝚃𝚎𝚊𝚖 𝙴𝚟𝚊 𝙼𝚊𝚛𝚒𝚊
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
+    ABOUT_TXT = """➤ 𝐌𝐘 𝐍𝐀𝐌𝐄  : [𝐍𝐀𝐓𝐀𝐋𝐈𝐀 𝐃𝐘𝐄𝐑](https://t.me/NataliaTG_bot)
+    
+➤𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑: [𝐄𝐃𝐈𝐙𝐎𝐍](https://t.me/Edizon1)
+
+➤𝐋𝐈𝐁𝐑𝐀𝐑𝐘: [𝐏𝐘𝐑𝐎𝐆𝐑𝐀𝐌](https://github.com/pyrogram/pyrogram)
+
+➤𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄: [𝐏𝐘𝐓𝐇𝐎𝐍 𝟑](https://www.python.org/)
+
+➤𝐃𝐀𝐓𝐀 𝐁𝐀𝐒𝐄: [𝐌𝐎𝐍𝐆𝐎 𝐃𝐁](https://www.mongodb.com/)
+
+➤𝐁𝐎𝐓 𝐒𝐄𝐑𝐕𝐄𝐑: [𝐇𝐄𝐑𝐎𝐊𝐔](https://www.heroku.com/)
+
+➤𝐁𝐔𝐈𝐋𝐃 𝐒𝐓𝐀𝐓𝐔𝐒: 𝐯𝟏.𝟎.𝟏 [𝐁𝐄𝐓𝐀]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Eva Maria is a open source project. 
 - Source - https://github.com/EvamariaTG/EvaMaria  
