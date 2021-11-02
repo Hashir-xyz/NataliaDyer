@@ -16,8 +16,7 @@ class script(object):
 ➤𝐁𝐎𝐓 𝐒𝐄𝐑𝐕𝐄𝐑: [𝐇𝐄𝐑𝐎𝐊𝐔](https://www.heroku.com/)
 
 ➤𝐁𝐔𝐈𝐋𝐃 𝐒𝐓𝐀𝐓𝐔𝐒: 𝐯𝟏.𝟎.𝟏 [𝐁𝐄𝐓𝐀]"""
-      
-MANUELFILTER_TXT = """Help: <b>Filters</b>
+   MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Natalia will respond whenever a keyword is found the message
 
@@ -31,7 +30,7 @@ MANUELFILTER_TXT = """Help: <b>Filters</b>
 • /filters - <code>list all the filters of a chat</code>
 • /del - <code>delete a specific filter in chat</code>
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
- BUTTON_TXT = """Help: <b>Buttons</b>
+    BUTTON_TXT = """Help: <b>Buttons</b>
 
 - Eva Maria Supports both url and alert inline buttons. 
  
