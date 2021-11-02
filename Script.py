@@ -17,7 +17,7 @@ class script(object):
 
 ➤𝐁𝐔𝐈𝐋𝐃 𝐒𝐓𝐀𝐓𝐔𝐒: 𝐯𝟏.𝟎.𝟏 [𝐁𝐄𝐓𝐀]"""
       
-   MANUELFILTER_TXT = """Help: <b>Filters</b>
+MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Natalia will respond whenever a keyword is found the message
 
