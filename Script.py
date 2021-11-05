@@ -9,11 +9,11 @@ class script(object):
 
 ⇢ʟɪʙʀᴀʀʏ📕:  <a href=https://github.com/pyrogram/pyrogram'>ᴘʀᴏɢʀᴀᴍ</a> 
 
-⇢ʟᴀɴɢᴜᴀɢᴇ 📝: <a herf='https://www.python.org'>ᴘʏᴛʜᴏɴ 𝟹</a>
+⇢ʟᴀɴɢᴜᴀɢᴇ 📝: <a herf=https://www.python.org>ᴘʏᴛʜᴏɴ 𝟹</a>
 
-⇢ᴅᴀᴛᴀʙᴀsᴇ   🗄: <a herf='https://www.mongodb.com'>ᴍᴏɴɢᴏ ᴅʙ</a>
+⇢ᴅᴀᴛᴀʙᴀsᴇ   🗄: <a herf=https://www.mongodb.com>ᴍᴏɴɢᴏ ᴅʙ</a>
 
-⇢ʙᴏᴛ sᴇʀᴠᴇʀ 📡: <a herf='https://www.heroku.com'>ʜᴇʀᴏᴋᴜ</a>
+⇢ʙᴏᴛ sᴇʀᴠᴇʀ 📡: <a herf=https://www.heroku.com>ʜᴇʀᴏᴋᴜ</a>
 
 ⇢ʙᴜɪʟᴅ sᴛᴀᴛᴜs 💎: 𝐯𝟏.𝟎.𝟏 ʙᴇᴛᴀ"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
